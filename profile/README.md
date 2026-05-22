@@ -1,12 +1,6 @@
 # Hanson Research Group
 ### Stanford University • High Temperature Gasdynamics Laboratory (HTGL)
 
-In the Hanson Research Group we investigate the fundamental science underpinning the energy and propulsion technologies of tomorrow.
-
-We develop leading edge diagnostics and experimental techniques to better understand and address a diversity of real-world challenges. Over the past 40 years, our group has published more than 1450 scientific papers and our more than 125 PhD graduates have made immense contributions to the fields of chemical kinetics, spectroscopy, gas dynamics, and energy science.
-
----
-
 ## 🔬 Core Research Focus
 
 Our research is centered at the intersection of mechanical engineering, laser physics, and physical chemistry. We focus on developing advanced optical diagnostics to study high-temperature gas flows, combustion chemistry, and fast transient phenomena.
