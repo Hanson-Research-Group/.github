@@ -37,4 +37,3 @@ Since 1980, the Hanson Research Group has been a global leader in gasdynamics, c
 * 🌐 [Hanson Research Group Website](https://hanson.stanford.edu/)
 * 🎓 [Professor Ronald K. Hanson - Stanford Profile](https://profiles.stanford.edu/ronald-hanson)
 * 🏢 [Stanford Department of Mechanical Engineering](https://me.stanford.edu/)
-* 🧪 [High Temperature Gasdynamics Laboratory (HTGL)](https://htgl.stanford.edu/)
